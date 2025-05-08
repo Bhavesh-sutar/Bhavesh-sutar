@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Kisturaram Sutar</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
 
-- 🔭 I’m currently working on **Spotify Clone**
+- 🔭 I’m currently working on **Advanced version of ai assistant**
 
-- 🌱 I’m currently learning **React JS, Express JS, Software Development**
+- 🔭 My next project is **Learniverse - LMS tailored for IT Education**
+
+- 🌱 I’m currently learning **React JS, Express JS**
 
 - 📫 How to reach me **bhaveshsutar999@gmail.com**
 
