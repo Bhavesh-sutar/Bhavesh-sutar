@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Advanced version of ai assistant**
 
-- 🔭 My next project is **Learniverse - LMS tailored for IT Education**
-
 - 🌱 I’m currently learning **React JS, Express JS**
 
 - 📫 How to reach me **bhaveshsutar999@gmail.com**
