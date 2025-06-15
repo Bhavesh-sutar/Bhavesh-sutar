@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhavesh Kisturaram Sutar</h1>
+<h1 align="center">Hi 👋, I'm Bhavesh Sutar</h1>
 <h3 align="center">An Aspiring Software Developer</h3>
 
 - 🔭 I’m currently working on **Advanced version of ai assistant**
