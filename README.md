@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhavesh Sutar</h1>
 <h3 align="center">Developer</h3>
 
-- 🔭 I’m currently working on **Advanced version of ai assistant**
-
-- 🌱 I’m currently learning **React JS, Express JS**
-
 - 📫 How to reach me **bhaveshsutar999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
