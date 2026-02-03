@@ -1,18 +1,14 @@
 # Bhavesh Sutar
 
-Python-focused Computer Science undergraduate with hands-on experience building
-desktop applications and modular systems. I’m interested in writing clean,
-maintainable code and working on practical software rather than demo projects.
-
 ## Currently
-- Building **Vexa**, a modular Python voice assistant with intent-based command handling
+- Building **Reflecta**, a mental wellness web application with journaling CRUD and Breathing with background tasks
 - Improving backend fundamentals: APIs, databases, and system-level thinking
 
 ## Technical Skills
 - **Languages:** Python, Java  
-- **Databases:** MySQL, MongoDB  
-- **Tools:** Git, Linux, Postman  
-- **Concepts:** OOP, REST APIs, basic system design
+- **Databases:** MySQL, PostgreSQL  
+- **Tools:** Git, Github, Linux, Postman  
+- **Concepts:** OOP, REST APIs, System design
 
 ## Projects
 - **Vexa – Modular Voice Assistant (Python)**  
